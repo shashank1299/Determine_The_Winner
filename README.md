@@ -12,14 +12,14 @@ Output format
 For each test case, considering that both the players play optimally, print "Arpa" (without quotes) if he wins the game else print "Dishant" (without quotes) in a new line.
 
 
-SAMPLE INPUT 
-2
-5 2
-2 1
+#SAMPLE INPUT 
+#2
+#5 2
+#2 1
 
-SAMPLE OUTPUT 
-Arpa
-Dishant
+#SAMPLE OUTPUT 
+#Arpa
+#Dishant
 
 Explanation
 For the first test case, Arpa chooses 2 cards. Now there are 3 cards left in the pile. It does not matter how many cards Dishant chooses from the pile, he'll always lose. 
