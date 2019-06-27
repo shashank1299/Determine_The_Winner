@@ -12,14 +12,18 @@ Output format
 For each test case, considering that both the players play optimally, print "Arpa" (without quotes) if he wins the game else print "Dishant" (without quotes) in a new line.
 
 
-SAMPLE INPUT 
+SAMPLE INPUT
+
 2
 
 5 2
+
 2 1
 
 SAMPLE OUTPUT 
+
 Arpa
+
 Dishant
 
 Explanation
